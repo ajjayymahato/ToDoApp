@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li:hover {
+	border: 3px solid black;
+	padding-block: 5px;
+	padding-inline: 10px;
+}
+
+body {
+	background-color: rgb(51, 98, 139);
+}
