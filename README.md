@@ -1,9 +1,7 @@
 # 📌 ToDoApp 📌
-Join `Hacktoberfest` By Contributing To `ToDoApp`, A Collaborative Project Where Developers Create Todo Applications Using Various Frontend And Backend Technologies. Let's Make Managing Tasks Easier, One Pull Request At A Time!
 
+Join `Hacktoberfest` By Contributing To `ToDoApp`, A Collaborative Project Where Developers Create Todo Applications Using Various Frontend And Backend Technologies. Let's Make Managing Tasks Easier, One Pull Request At A Time!ToDoApp
 
-```python
-ToDoApp
 ├── frontend
 │   ├── react
 │   │   ├── MyFirstName-BirthdayDate-CityName
@@ -45,10 +43,9 @@ ToDoApp
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── README.md
-```
-
 
 ## 🚀 Want to Contribute? 🚀
+
 You are encouraged to contribute any missing useful assertions. Follow these steps to contribute:
 
 For more detailed instructions, check the [CONTRIBUTING.md](CONTRIBUTING.md) file.
@@ -56,9 +53,11 @@ For more detailed instructions, check the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 Happy hacking!
 
 ## ⭐ Please Star This Repository ⭐
+
 If you find this project useful or interesting, we'd greatly appreciate your support by starring this repository. It helps us gauge community interest and encourages us to continue improving and expanding the project.
 
 **To star this repository:**
+
 1. Click the ⭐️ (star) button at the top right of the page.
 2. Your support means a lot to us!
 
@@ -73,4 +72,3 @@ If you find this project useful or simply want to show your appreciation, you ca
 </a>
 
 Thank you for your support! 🙌
-
