@@ -1,51 +1,48 @@
 # 📌 ToDoApp 📌
 
-Join `Hacktoberfest` By Contributing To `ToDoApp`, A Collaborative Project Where Developers Create Todo Applications Using Various Frontend And Backend Technologies. Let's Make Managing Tasks Easier, One Pull Request At A Time!
+Join `Hacktoberfest` By Contributing To `ToDoApp`, A Collaborative Project Where Developers Create Todo Applications Using Various Frontend And Backend Technologies. Let's Make Managing Tasks Easier, One Pull Request At A Time!ToDoApp
 
-```bash
-ToDoApp
 ├── frontend
-│   ├── react
-│   │   ├── MyFirstName-BirthdayDate-CityName
-│   │   │   ├── src
-│   │   │   ├── screenshots
-│   │   │   ├── README.md
-│   ├── angular
-│   │   ├── ...
-│   ├── vue
-│   │   ├── ...
-│   ├── bootstrap
-│   │   ├── ...
+│ ├── react
+│ │ ├── MyFirstName-BirthdayDate-CityName
+│ │ │ ├── src
+│ │ │ ├── screenshots
+│ │ │ ├── README.md
+│ ├── angular
+│ │ ├── ...
+│ ├── vue
+│ │ ├── ...
+│ ├── bootstrap
+│ │ ├── ...
 ├── backend
-│   ├── springboot
-│   │   ├── MyFirstName-BirthdayDate-CityName
-│   │   │   ├── src
-│   │   │   ├── screenshots
-│   │   │   ├── README.md
-│   ├── django
-│   │   ├── ...
-│   ├── flask
-│   │   ├── ...
+│ ├── springboot
+│ │ ├── MyFirstName-BirthdayDate-CityName
+│ │ │ ├── src
+│ │ │ ├── screenshots
+│ │ │ ├── README.md
+│ ├── django
+│ │ ├── ...
+│ ├── flask
+│ │ ├── ...
 ├── fullstack
-│   ├── react-springboot
-│   │   ├── MyFirstName-BirthdayDate-CityName
-│   │   │   ├── frontend
-│   │   │   ├── backend
-│   │   │   ├── screenshots
-│   │   │   ├── README.md
-│   │   ├── MyFirstName-BirthdayDate-CityName
-│   │   │   ├── frontend
-│   │   │   ├── backend
-│   │   │   ├── screenshots
-│   │   │   ├── README.md
-│   ├── angular-springboot
-│   │   ├── ...
-│   ├── react-django
-│   │   ├── ...
+│ ├── react-springboot
+│ │ ├── MyFirstName-BirthdayDate-CityName
+│ │ │ ├── frontend
+│ │ │ ├── backend
+│ │ │ ├── screenshots
+│ │ │ ├── README.md
+│ │ ├── MyFirstName-BirthdayDate-CityName
+│ │ │ ├── frontend
+│ │ │ ├── backend
+│ │ │ ├── screenshots
+│ │ │ ├── README.md
+│ ├── angular-springboot
+│ │ ├── ...
+│ ├── react-django
+│ │ ├── ...
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── README.md
-```
 
 ## 🚀 Want to Contribute? 🚀
 
