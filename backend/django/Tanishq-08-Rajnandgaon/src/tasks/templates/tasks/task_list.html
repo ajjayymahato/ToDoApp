@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Task List</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				background-color: #f2f2f2;
+				margin: 0;
+				padding: 0;
+			}
+			h1 {
+				width: 20%;
+				border-radius: 20px;
+				border: 5px solid black;
+				margin-inline: auto;
+				background-color: #3498db;
+				color: #fff;
+				padding: 10px;
+				text-align: center;
+			}
+			ul {
+				list-style-type: none;
+				padding: 0;
+				text-align: center;
+			}
+			li {
+				background-color: #fff;
+				padding: 10px;
+				margin: 10px;
+				border-radius: 5px;
+				box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+				transition: all 0.3s ease;
+			}
+			li:hover {
+				background-color: #f0f0f0;
+				transform: scale(1.05);
+			}
+			a {
+				display: block;
+				text-align: center;
+				margin-top: 10px;
+				color: #3498db;
+				text-decoration: none;
+				transition: color 0.3s ease;
+			}
+			a:hover {
+				color: #2e86c1;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Task List</h1>
+		<a href="{% url 'add_task' %}">Add Task</a>
+		<ul>
+			{% for task in tasks %}
+			<li>
+				<h3>{{ task.title }}</h3>
+				<p>{{ task.description }}</p>
+			</li>
+			{% empty %}
+			<li>No tasks to display.</li>
+			{% endfor %}
+		</ul>
+	</body>
+</html>
